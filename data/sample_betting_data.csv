@@ -1,0 +1,71 @@
+event_id,event_date,sport,home_team,away_team,market,selection,odds_decimal,closing_odds_decimal,result
+E001,2024-01-05,soccer,Arsenal,Chelsea,moneyline,Arsenal,2.10,2.00,win
+E002,2024-01-05,soccer,Arsenal,Chelsea,moneyline,Chelsea,3.60,3.75,loss
+E003,2024-01-06,basketball,Lakers,Celtics,moneyline,Lakers,1.90,1.85,loss
+E004,2024-01-06,basketball,Lakers,Celtics,moneyline,Celtics,2.00,2.10,win
+E005,2024-01-08,soccer,Bayern,Dortmund,spread,Bayern -1.5,2.20,2.15,win
+E006,2024-01-09,tennis,Djokovic,Alcaraz,moneyline,Djokovic,1.60,1.55,win
+E007,2024-01-10,soccer,Liverpool,Man City,moneyline,Liverpool,3.20,3.40,loss
+E008,2024-01-10,soccer,Liverpool,Man City,moneyline,Man City,2.10,2.00,win
+E009,2024-01-12,basketball,Warriors,Heat,moneyline,Warriors,1.75,1.70,win
+E010,2024-01-13,tennis,Nadal,Medvedev,moneyline,Nadal,2.40,2.55,loss
+E011,2024-01-15,soccer,Real Madrid,Barcelona,moneyline,Real Madrid,2.30,2.20,win
+E012,2024-01-15,soccer,Real Madrid,Barcelona,moneyline,Barcelona,3.00,3.10,loss
+E013,2024-01-17,basketball,Bucks,Nets,spread,Bucks -5.5,1.95,1.90,push
+E014,2024-01-18,soccer,PSG,Lyon,moneyline,PSG,1.55,1.50,win
+E015,2024-01-19,tennis,Sinner,Zverev,moneyline,Sinner,1.80,1.75,win
+E016,2024-01-20,basketball,Nuggets,Thunder,moneyline,Nuggets,1.85,1.80,loss
+E017,2024-01-22,soccer,Inter,Juventus,moneyline,Inter,2.00,1.95,win
+E018,2024-01-22,soccer,Inter,Juventus,moneyline,Juventus,3.50,3.60,loss
+E019,2024-01-24,basketball,Suns,Clippers,moneyline,Suns,2.10,2.20,win
+E020,2024-01-25,tennis,Federer,Tsitsipas,moneyline,Federer,1.50,1.45,win
+E021,2024-01-27,soccer,Atletico,Sevilla,spread,Atletico -1.0,2.05,2.00,loss
+E022,2024-01-28,basketball,76ers,Raptors,moneyline,76ers,1.65,1.60,win
+E023,2024-01-30,soccer,Man Utd,Tottenham,moneyline,Tottenham,2.80,2.90,win
+E024,2024-02-01,tennis,Djokovic,Sinner,moneyline,Sinner,3.20,3.10,loss
+E025,2024-02-02,basketball,Celtics,Heat,spread,Celtics -4.5,1.90,1.85,win
+E026,2024-02-03,soccer,Milan,Napoli,moneyline,Milan,2.50,2.40,loss
+E027,2024-02-04,soccer,Milan,Napoli,moneyline,Napoli,2.80,2.75,win
+E028,2024-02-05,basketball,Mavericks,Grizzlies,moneyline,Mavericks,1.70,1.65,win
+E029,2024-02-07,soccer,Dortmund,Leipzig,moneyline,Dortmund,2.10,2.05,win
+E030,2024-02-08,tennis,Alcaraz,Medvedev,moneyline,Alcaraz,1.75,1.70,win
+E031,2024-02-10,soccer,Chelsea,Arsenal,moneyline,Chelsea,3.00,3.15,loss
+E032,2024-02-10,soccer,Chelsea,Arsenal,moneyline,Arsenal,2.20,2.10,win
+E033,2024-02-12,basketball,Lakers,Warriors,moneyline,Warriors,1.80,1.75,win
+E034,2024-02-13,soccer,Man City,Liverpool,moneyline,Man City,1.90,1.85,push
+E035,2024-02-14,tennis,Zverev,Tsitsipas,moneyline,Zverev,1.95,1.90,loss
+E036,2024-02-15,basketball,Bucks,Celtics,spread,Bucks -3.0,1.95,2.00,win
+E037,2024-02-17,soccer,Barcelona,Atletico,moneyline,Barcelona,1.85,1.80,win
+E038,2024-02-18,basketball,Thunder,Suns,moneyline,Thunder,2.20,2.30,loss
+E039,2024-02-20,soccer,Lyon,PSG,moneyline,PSG,1.55,1.50,loss
+E040,2024-02-21,tennis,Nadal,Djokovic,moneyline,Nadal,3.50,3.60,loss
+E041,2024-02-22,basketball,Heat,76ers,moneyline,Heat,2.40,2.35,win
+E042,2024-02-24,soccer,Napoli,Inter,moneyline,Napoli,2.60,2.55,loss
+E043,2024-02-25,soccer,Napoli,Inter,moneyline,Inter,2.50,2.40,win
+E044,2024-02-26,basketball,Raptors,Nets,spread,Raptors -2.5,1.90,1.85,win
+E045,2024-02-28,soccer,Juventus,Milan,moneyline,Juventus,2.30,2.20,win
+E046,2024-03-01,tennis,Medvedev,Sinner,moneyline,Medvedev,2.10,2.05,loss
+E047,2024-03-02,basketball,Clippers,Nuggets,moneyline,Nuggets,1.85,1.80,win
+E048,2024-03-04,soccer,Sevilla,Real Madrid,moneyline,Real Madrid,1.70,1.65,win
+E049,2024-03-05,basketball,Warriors,Mavericks,spread,Warriors -3.5,1.95,1.90,loss
+E050,2024-03-06,tennis,Alcaraz,Zverev,moneyline,Alcaraz,1.65,1.60,win
+E051,2024-03-08,soccer,Tottenham,Man Utd,moneyline,Tottenham,2.70,2.80,win
+E052,2024-03-09,basketball,Celtics,Bucks,moneyline,Celtics,1.80,1.75,win
+E053,2024-03-10,soccer,Arsenal,Liverpool,moneyline,Arsenal,2.40,2.30,loss
+E054,2024-03-11,soccer,Arsenal,Liverpool,moneyline,Liverpool,2.80,2.70,win
+E055,2024-03-12,basketball,76ers,Lakers,moneyline,76ers,2.00,1.95,win
+E056,2024-03-13,tennis,Djokovic,Alcaraz,moneyline,Alcaraz,3.10,3.00,loss
+E057,2024-03-15,soccer,Leipzig,Bayern,moneyline,Bayern,1.75,1.70,win
+E058,2024-03-16,basketball,Grizzlies,Heat,spread,Grizzlies -1.5,2.05,2.10,loss
+E059,2024-03-18,soccer,Man City,Chelsea,moneyline,Man City,1.65,1.60,win
+E060,2024-03-19,tennis,Tsitsipas,Medvedev,moneyline,Tsitsipas,2.20,2.15,loss
+E061,2024-03-20,basketball,Nets,Raptors,moneyline,Raptors,1.90,1.85,win
+E062,2024-03-21,soccer,Inter,Milan,moneyline,Inter,2.10,2.05,win
+E063,2024-03-22,basketball,Thunder,Mavericks,moneyline,Mavericks,2.30,2.25,win
+E064,2024-03-24,soccer,PSG,Marseille,moneyline,PSG,1.50,1.45,win
+E065,2024-03-25,tennis,Sinner,Nadal,moneyline,Sinner,2.00,1.95,win
+E066,2024-03-26,basketball,Suns,Warriors,spread,Suns -2.0,1.95,2.00,push
+E067,2024-03-27,soccer,Atletico,Real Madrid,moneyline,Real Madrid,2.20,2.15,loss
+E068,2024-03-28,basketball,Heat,Celtics,moneyline,Celtics,1.70,1.65,win
+E069,2024-03-29,soccer,Barcelona,Sevilla,moneyline,Barcelona,1.60,1.55,win
+E070,2024-03-30,tennis,Federer,Djokovic,moneyline,Djokovic,1.55,1.50,win

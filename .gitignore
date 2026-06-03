@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+*.dylib
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+ENV/
+
+# Distribution / packaging
+pip-wheel-metadata/
+share/python-wheels/
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+.pytype/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large real data files (keep synthetic sample)
+data/historical_*.csv
+data/historical_*.parquet
+data/*.parquet
+
+# Run artifacts - each pipeline tracks its own runs/
+# Uncomment if you want to exclude generated metrics from version control:
+# pipelines/**/runs/*/metrics.json
+# pipelines/**/runs/*/artifacts/
+
+# Logs
+*.log
+
+# Private benchmark answer keys
+**/ORGANIZER_NOTES.md
+private_notes/
