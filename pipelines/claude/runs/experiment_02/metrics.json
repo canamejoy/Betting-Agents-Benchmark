@@ -1,0 +1,14 @@
+{
+  "total_profit": 274.7159,
+  "roi": 0.4981,
+  "hit_rate": 0.6923,
+  "bet_count": 14,
+  "max_drawdown": 46.4656,
+  "runtime_seconds": 0.034,
+  "profit_volatility": 39.1248,
+  "sharpe_like_ratio": 0.5015,
+  "max_stake": 59.8985,
+  "max_daily_exposure": 59.8985,
+  "risk_of_ruin_proxy": 0.0465,
+  "final_bankroll": 1274.7159
+}
