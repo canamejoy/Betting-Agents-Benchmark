@@ -8,6 +8,7 @@ Here are the credentials:
 STAKE_EMAIL=<your-email>
 STAKE_PASSWORD=<your-password>
 ODDS_API_KEY=<your-key>
+TIME_EXPERIMENT=30
 ```
 
 The agent should write these to `.env` (never commit that file — it is in .gitignore).

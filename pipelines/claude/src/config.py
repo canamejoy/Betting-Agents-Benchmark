@@ -54,6 +54,9 @@ LIVE = {
     "max_stake_pct": float(os.getenv("LIVE_MAX_STAKE_PCT", "0.05")),
     "ev_threshold": float(os.getenv("LIVE_EV_THRESHOLD", "0.05")),
     "dry_run": os.getenv("DRY_RUN", "true").lower() == "true",
+    # Total benchmark time in minutes; 10 min per experiment × 3 experiments = 30.
+    "time_experiment_minutes": int(os.getenv("TIME_EXPERIMENT", "30")),
+    "time_per_experiment_minutes": int(os.getenv("TIME_EXPERIMENT", "30")) // 3,
     "output_dir": _RUNS / "live",
     "historical_data_path": _ROOT / "data" / "sample_betting_data.csv",
     "train_ratio": 0.70,
