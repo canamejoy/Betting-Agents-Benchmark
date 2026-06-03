@@ -1,0 +1,30 @@
+{
+  "mode": "dry_run",
+  "bets_selected": 2,
+  "bets_attempted": 2,
+  "runtime_seconds": 1.31,
+  "bet_records": [
+    {
+      "selection": "New York Knicks",
+      "odds_decimal": 2.72,
+      "stake_usd": 0.11509719471180895,
+      "status": "dry_run",
+      "event_id": "1aae688472781f1a1aaf3efdb38e884b",
+      "event_date": "2026-06-04",
+      "ev": 0.8615531451835634,
+      "model_prob": 0.6843945386704277,
+      "stake_cop": 460.38877884723576
+    },
+    {
+      "selection": "San Antonio Spurs",
+      "odds_decimal": 1.57,
+      "stake_usd": 0.07477356154481352,
+      "status": "dry_run",
+      "event_id": "1aae688472781f1a1aaf3efdb38e884b",
+      "event_date": "2026-06-04",
+      "ev": 0.10706377636232589,
+      "model_prob": 0.7051361632881056,
+      "stake_cop": 299.09424617925407
+    }
+  ]
+}
